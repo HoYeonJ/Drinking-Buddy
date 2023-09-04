@@ -8,4 +8,5 @@ Sort and filter for fluid data history based on metrics such as mood or calories
 
 Written in PHP using a MySQL relational database. Hosting was done locally on XAMPP and UVA CS department servers.
 
-Teammate Credits: Jiafu Li, Brendan keaton, Andrea Jerausek
+# Credits
+Jiafu Li, Brendan Keaton, Andrea Jerausek
